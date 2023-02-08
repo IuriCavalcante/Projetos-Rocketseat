@@ -5,4 +5,17 @@ body {
   font-size: 15px;
   line-height: 22px;
   text-align: center;
+  margin-top: 64px;
+}
+
+h1 {
+  font-family: 'dosis';
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: normal;
+  color: #3f3d56;
+}
+
+span {
+  color: #ee24ff;
 }
